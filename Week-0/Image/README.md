@@ -37,7 +37,7 @@ $ git submodule update --init --recursive
 $ make 
 $ sudo make install
 ```
-![Alt Text](Week-0/Image/Yosys-installation.png)
+![Alt Text](https://github.com/gowtham-2206/gowtham_RISC-V-SoC_tapeout-program-Week-0/blob/4fc0f99b59e9bcbf4ad4cf52c2011d5f4fb2bbc7/Week-0/Image/Yosys-installation.png)
 
 #### <ins>**Iverilog**</ins>
 ```bash
