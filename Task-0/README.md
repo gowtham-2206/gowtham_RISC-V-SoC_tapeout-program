@@ -44,11 +44,11 @@ $ sudo make install
 $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
-![Alt Text]([Images/iverilog_status.png](https://github.com/gowtham-2206/gowtham_RISC-V-SoC_tapeout-program-Week-0/blob/2daf3573ccf600eab76a833fab0bbdc9741bb844/Task-0/Iverilog-done'.png)
+![Alt Text](https://github.com/gowtham-2206/gowtham_RISC-V-SoC_tapeout-program-Week-0/blob/2daf3573ccf600eab76a833fab0bbdc9741bb844/Task-0/Iverilog-done'.png)
 
 #### <ins>**gtkwave**</ins>
 ```bash
 $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
-![Alt Text]([Images/gtkwave_installation_done.jpeg](https://github.com/gowtham-2206/gowtham_RISC-V-SoC_tapeout-program-Week-0/blob/2daf3573ccf600eab76a833fab0bbdc9741bb844/Task-0/gtkwave-done.png)
+![Alt Text](https://github.com/gowtham-2206/gowtham_RISC-V-SoC_tapeout-program-Week-0/blob/2daf3573ccf600eab76a833fab0bbdc9741bb844/Task-0/gtkwave-done.png)
