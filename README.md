@@ -4,7 +4,7 @@ This repository documents my week-by-week progress with tasks inside each week. 
 
 | Task | Description | Status |
 |------|-------------|---------|
-| [**Task 0**]([Task-0/README.md) | 🛠️ [Tools Installation]([Week0/Task0/README.md](https://github.com/gowtham-2206/gowtham_RISC-V-SoC_tapeout-program-Week-0/blob/eb5f5509c9369a4cdae4ae3218ac305e04473fa8/Task-0/README.md#risc-v-reference-soc-tapeout-program-vsd) — Installed **Iverilog**, **Yosys**, and **gtkWave** | ✅ Completed |
+| [**Task 0**](Task-0/README.md) | 🛠️ [Tools Installation](Task-0/README.md) — Installed **Iverilog**, **Yosys**, and **gtkWave** | ✅ Completed |
 
 
 
